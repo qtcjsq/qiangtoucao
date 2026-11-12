@@ -1,6 +1,7 @@
 # qiangtoucao
 墙头草-更快更稳 </br>
+如果要下载APP请在登录官网查看文档 </br>
 地址1：https://www.silentroute.cloud  （随时可能切换，请先收藏git网址）</br>
 海外网址：https://www.silentroutevpn.com （需开梯子访问）</br>
 [TG客服](https://t.me/+42W3ATZ2xP03N2M1)
-<a href="https://t.me/+42W3ATZ2xP03N2M1" target="_blank">TG客服</a>
+
